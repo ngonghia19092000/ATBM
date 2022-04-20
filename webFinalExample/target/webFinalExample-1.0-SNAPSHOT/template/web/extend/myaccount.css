@@ -1,0 +1,33 @@
+/*don hang cua toi*/
+.nav-tabs .nav-link.active {
+    font-weight:bold;
+    background-color: transparent;
+    border-bottom:10px solid #dd0000;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+
+
+.order-no-data-btn {
+    border: 1px solid #f57224;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: .5px;
+    padding: 0 8px;
+    height: 32px;
+    line-height: 32px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: #1a161e;
+    color: white;
+
+}
+.order-no-data-btn:hover{
+    background-color: #ff708a;
+}
+h3{
+    font-family: Arial;
+}

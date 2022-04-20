@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fd6a384-a590-4c0c-adc1-7e97367f4431" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/service/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java/com/tnt/laptrinhjavaweb/service/impl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../common/admin/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../common/admin/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../common/admin/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../common/admin/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../views/admin/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../views/admin/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/dao/IUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/dao/IUserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/tnt/laptrinhjavaweb/service/impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/RowMapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/dao/IUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/dao/IUserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/dao/impl/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/com/tnt/laptrinhjavaweb/service/impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/common/admin/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/common/admin/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/common/admin/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/common/admin/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/views/admin/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/webFinalExample-1.0-SNAPSHOT/views/admin/home.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mtAJXOvOruc80BtdP9Nkrg4Npu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../../../Lan/webFinalExample" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fd6a384-a590-4c0c-adc1-7e97367f4431" name="Default Changelist" comment="" />
+      <created>1610302441747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610302441747</updated>
+      <workItem from="1610302443158" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="56" key="FileChooserDialogImpl" timestamp="1610302502100">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="368" y="56" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1610302502100" />
+  </component>
+</project>

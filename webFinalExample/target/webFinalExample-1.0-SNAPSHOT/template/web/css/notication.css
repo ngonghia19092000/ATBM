@@ -1,0 +1,78 @@
+.oder-1{
+
+display: inline;
+
+
+    float: left;
+  padding: 1%;
+}
+.col-3{
+display: block;
+    width: 25%;
+    float: left;
+    padding-left: 5%;
+    font-size: 20px;
+
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #f2f9ff;
+}
+.title-link{
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: black;
+}
+.title-link:hover{
+
+    background-color: #ff708a;
+}
+.col-9{
+    display: block;
+    width: 75%;
+    float: right;
+    border: 2px solid #F2F9FF;
+
+
+
+
+
+}
+
+.oder-2{
+    display: block;
+    width: 72%;
+    float: right;
+  padding: 1%;
+    margin: 1%;
+}
+.heading-right{
+    display: inline-block;
+    margin: 10px;
+    padding: 2%;
+    background-color: #F2F9FF   ;
+    width: 90%;
+    border-radius: 5px;
+
+}
+
+.order-no-data-btn {
+    width: 40%;
+    border: none;
+    background-color: #1a161e;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 5px 40px;
+    margin-left:30%;
+    text-align: center  ;
+    border-radius: 50px;
+    font-weight: 600;
+}
+.order-no-data-btn:hover{
+
+    background-color: #ff708a;
+}
+.tab-pane fade{
+    text-align: center;
+}

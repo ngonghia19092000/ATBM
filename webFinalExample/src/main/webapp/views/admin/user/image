@@ -1,0 +1,307 @@
+(NULL, '1', NULL, '/data/images/products/Nam/2te20w023-so178-110.jpg', '/data/images/products/Nam/2te20w023-so178-110-2.jpg', NULL),
+(NULL, '2', NULL, '/data/images/products/Nam/2te20w017-sb232-110.jpg', '/data/images/products/Nam/2te20w017-sb232-110-2.jpg', NULL),
+(NULL, '3', NULL, '/data/images/products/Nam/2ot20w012-sb150-110-3.jpg', '/data/images/products/Nam/2ot20w012-sb150-110-1-.jpg', NULL),
+(NULL, '4', NULL, '/data/images/products/Nam/2te20w008-sr133-110.jpg', '/data/images/products/Nam/2te20w008-sr133-110-2.jpg', NULL),
+(NULL, '5', NULL, '/data/images/products/Nam/2bp20w008-sb150-110-.jpg', '/data/images/products/Nam/2bp20w008-sb150-110-.jpg', NULL),
+(NULL, '6', NULL, '/data/images/products/Nam/2ot20w002-sa004-110-3.jpg', '/data/images/products/Nam/2ot20w002-sb060-110-1.jpg', NULL),
+(NULL, '7', NULL, '/data/images/products/Nam/2te20w009-sr133-110.jpg', '/data/images/products/Nam/2te20w009-sr133-110-2.jpg', NULL),
+(NULL, '8', NULL, '/data/images/products/Nam/2te20w013-so016-110.jpg', '/data/images/products/Nam/2te20w013-so016-110-2.jpg', NULL),
+(NULL, '9', NULL, '/data/images/products/Nam/2ot20w004-sb060-110-3.jpg', '/data/images/products/Nam/2ot20w004-sb074-100.jpg', NULL),
+(NULL, '10', NULL, '/data/images/products/Nam/3ot20w003-sk010-130-3.jpg', '/data/images/products/Nam/3ot20w003-sy030-130.jpg    ', NULL),
+(NULL, '11', NULL, '/data/images/products/Nam/2te20w002-sb092-3.jpg', '/data/images/products/Nam/2te20w002-sb092-4-thumb.jpg', NULL),
+(NULL, '12', NULL, '/data/images/products/Nam/2te20c003-sr072-120-1-.jpg', '/data/images/products/Nam/2te20c003-sr072-120-1-.jpg', NULL),
+(NULL, '13', NULL, '/data/images/products/Nam/2ot20w016-sb060-120-3.jpg', '/data/images/products/Nam/2ot20w016-sk010-120.jpg', NULL),
+(NULL, '14', NULL, '/data/images/products/Nam/2ot20w007-sb060-120-3.jpg', '/data/images/products/Nam/2ot20w007-sg098-120.jpg', NULL),
+(NULL, '0', NULL, '/data/images/products/Nam/2st20w002-sa004-110-2.jpg', '/data/images/products/Nam/2st20w002-sb055-110-1-ghep.jpg', NULL),
+(NULL, '16', NULL, '/data/images/products/Nam/2bp20w005-sk010-120.jpg', '/data/images/products/Nam/2bp20w005-sk010-120-2.jpg', NULL),
+(NULL, '17', NULL, '/data/images/products/Nam/2th20w001-cg069-120-1.jpg', '/data/images/products/Nam/2th20w001-cg069-120-2.jpg', NULL),
+(NULL, '18', NULL, '/data/images/products/Nam/2te20w005-sb691-120-1.jpg', '/data/images/products/Nam/2te20w005-sb691-120-2.jpg', NULL),
+(NULL, '19', NULL, '/data/images/products/Nam/2ot20w005-sb055-3.jpg', '/data/images/products/Nam/2ot20w005-sb055-3.jpg', NULL),
+(NULL, '20', NULL, '/data/images/products/Nam/2ot20w005-sb055-3.jpg', '/data/images/products/Nam/2ot20w005-sb055-3.jpg', NULL),
+(NULL, '21', NULL, '/data/images/products/Nam/2bp20w004-sb060-120.jpg', '/data/images/products/Nam/2bp20w004-sb060-120-2.jpg', NULL),
+(NULL, '22', NULL, '/data/images/products/Nam/2bk20w003-sb060-110-3.jpg', '/data/images/products/Nam/2bk20w003-se029-130.jpg', NULL),
+(NULL, '23', NULL, '/data/images/products/Nam/2bk20w004-sa222-3-thumb.jpg', '/data/images/products/Nam/2bk20w004-sa222-110-2.jpg', NULL),
+(NULL, '24', NULL, '/data/images/products/Nam/2ot20w015-sb060-120-3.jpg', '/data/images/products/Nam/2ot20w015-sr072-1.jpg', NULL),
+(NULL, '25', NULL, '/data/images/products/Nam/2st20w003-sb055-110-2.jpg', '/data/images/products/Nam/2st20w003-sg364-110-1-ghep.jpg', NULL),
+(NULL, '26', NULL, '/data/images/products/Nam/2st20w002-sa004-110-2.jpg', '/data/images/products/Nam/2st20w002-sb055-110-1-ghep.jpg', NULL),
+(NULL, '27', NULL, '/data/images/products/Nam/2ot20w006-sb055-120-3.jpg', '/data/images/products/Nam/2ot20w006-sr191-120-1.jpg', NULL),
+(NULL, '28', NULL, '/data/images/products/Nam/2bk20w002-sb060-3.jpg', '/data/images/products/Nam/2bk20w002-sb060-110-2.jpg', NULL),
+(NULL, '29', NULL, '/data/images/products/Nam/2th20w004-fw185-120.jpg', '/data/images/products/Nam/2th20w004-fw185-120-2.jpg', NULL),
+(NULL, '30', NULL, '/data/images/products/Nam/3ot20w002-sr191-120.jpg', '/data/images/products/Nam/3ot20w002-sr191-120-2.jpg', NULL),
+(NULL, '31', NULL, '/data/images/products/Nam/2bj20w001-sj581-3.jpg', '/data/images/products/Nam/2bj20w001-sj581-120.jpg', NULL),
+(NULL, '32', NULL, '/data/images/products/Nam/2bj20w004-sj601-3.jpg', '/data/images/products/Nam/2bj20w004-sj601-120-1.jpg', NULL),
+(NULL, '33', NULL, '/data/images/products/Nam/2tl20w009-sr133-120-3.jpg', '/data/images/products/Nam/2tl20w009-sw001-120.jpg', NULL),
+(NULL, '34', NULL, '/data/images/products/Nam/2ot20w011-sa004-110-2.jpg', '/data/images/products/Nam/2ot20w011-sa039-110.jpg', NULL),
+(NULL, '35', NULL, '/data/images/products/Nam/2bp20w001-sa424-120.jpg', '/data/images/products/Nam/2bp20w001-sa424-120-2.jpg', NULL),
+(NULL, '36', NULL, '/data/images/products/Nam/2st20w001-sb060-120-2.jpg', '/data/images/products/Nam/2st20w001-sk005-120-1-ghep.jpg', NULL),
+(NULL, '37', NULL, '/data/images/products/Nam/2tw20w013-sb592-3-thumb.jpg', '/data/images/products/Nam/2tw20w013-sb592-4.jpg', NULL),
+(NULL, '38', NULL, '/data/images/products/Nam/2tw20w010-sa315-110-3.jpg', '/data/images/products/Nam/2tw20w010-sb060-1.jpg', NULL),
+(NULL, '39', NULL, '/data/images/products/Nam/2tw20w004-sr144-110-3.jpg', '/data/images/products/Nam/2tw20w004-sk010-110-1.jpg', NULL),
+(NULL, '40', NULL, '/data/images/products/Nam/2bp20w009-sa426-120-3.jpg', '/data/images/products/Nam/2bp20w009-sg093-120.jpg', NULL),
+(NULL, '41', NULL, '/data/images/products/Nam/2bp20w009-sa426-120-3.jpg', '/data/images/products/Nam/2bp20w009-sg093-120.jpg', NULL),
+(NULL, '42', NULL, '/data/images/products/Nam/2tw20w016-fb264-1.jpg', '/data/images/products/Nam/2tw20w016-fb264-2-thumb.jpg', NULL),
+(NULL, '43', NULL, '/data/images/products/Nam/2tl20w007-sa235-120-3.jpg', '/data/images/products/Nam/2tl20w007-sk010-1-thumb.jpg', NULL),
+(NULL, '44', NULL, '/data/images/products/Nam/2ls20w001-sa235-3.jpg', '/data/images/products/Nam/2ls20w001-sa235-120-1-ghep.jpg', NULL),
+(NULL, '45', NULL, '/data/images/products/Nam/2tw20w003-pb291-120-1.jpg', '/data/images/products/Nam/2tw20w003-pb291-120-3.jpg', NULL),
+(NULL, '46', NULL, '/data/images/products/Nam/2th20w005-cg065-120-3.jpg', '/data/images/products/Nam/2th20w005-cr080-120-1.jpg', NULL),
+(NULL, '47', NULL, '/data/images/products/Nam/2bp20w003-fb264-120-.jpg', '/data/images/products/Nam/2bp20w003-fb264-120-.jpg', NULL),
+(NULL, '48', NULL, '/data/images/products/Nam/2bj20w003-sj680-3.jpg', '/data/images/products/Nam/2bj20w003-sj580-120-1.jpg', NULL),
+(NULL, '49', NULL, '/data/images/products/Nam/2tl20w005-pb282-120-.jpg', '/data/images/products/Nam/2tl20w005-pb282-120-.jpg', NULL),
+(NULL, '50', NULL, '/data/images/products/Nam/2ls20w006-sw001-120-2.jpg', '/data/images/products/Nam/2ls20w006-sw001-120-1-ghep-.jpg', NULL),
+(NULL, '51', NULL, '/data/images/products/Nam/2is20w001-sa503-120.jpg', '/data/images/products/Nam/2is20w001-sw147-120-ghep.jpg', NULL),
+(NULL, '52', NULL, '/data/images/products/Nam/2is20w002-sk198-120_.jpg', '/data/images/products/Nam/2is20w002-sb835-120-ghep.jpg', NULL),
+(NULL, '53', NULL, '/data/images/products/Nam/2st20w004-fa065-120-2.jpg', '/data/images/products/Nam/2st20w004-fa063-120-1-ghep.jpg', NULL),
+(NULL, '54', NULL, '/data/images/products/Nam/2ot20w017-sk004-3.jpg', '/data/images/products/Nam/2ot20w017-sk004-110.jpg', NULL),
+(NULL, '55', NULL, '/data/images/products/Nam/2ls20w005-sk010-120-2.jpg', '/data/images/products/Nam/2ls20w005-sg375-1-thumb.jpg', NULL),
+(NULL, '56', NULL, '/data/images/products/Nam/2lb20w003-sr091-110-1-.jpg', '/data/images/products/Nam/2lb20w003-sb009-110-2.jpg', NULL),
+(NULL, '57', NULL, '/data/images/products/Nam/2tl20w006-sa235-120-3.jpg', '/data/images/products/Nam/2tl20w006-sw001-1-thumb.jpg', NULL),
+(NULL, '58', NULL, '/data/images/products/Nam/2tl20w010-sk010-120-1-.jpg', '/data/images/products/Nam/2tl20w010-sw001-120-1.jpg', NULL),
+(NULL, '59', NULL, '/data/images/products/Nam/2it20w001-sb009-120.jpg', '/data/images/products/Nam/2it20w001-sb194-120.jpg', NULL),
+(NULL, '60', NULL, '/data/images/products/Nam/2te19w025-sb691-130-5.jpg', '/data/images/products/Nam/2te19w025-sr198-130-5_copy.jpg', NULL),
+(NULL, '61', NULL, '/data/images/products/Nam/2tw19w014-pe016-120_copy.jpg', '/data/images/products/Nam/2tw19w014-pb258-120.jpg', NULL),
+(NULL, '62', NULL, '/data/images/products/Nam/2te19w021-sr193-130_copy.jpg', '/data/images/products/Nam/2te19w021-sr193-130-5.jpg', NULL),
+(NULL, '63', NULL, '/data/images/products/Nam/2te19w016-sb060-130.jpg', '/data/images/products/Nam/2te19w016-sb060-130_copy.jpg', NULL),
+(NULL, '64', NULL, '/data/images/products/Nam/2te19w017-sa417-130.jpg', '/data/images/products/Nam/2te19w017-sr186-130.jpg', NULL),
+(NULL, '65', NULL, '/data/images/products/Nam/2bk19w003-sr157-120__1_.jpg', '/data/images/products/Nam/2bk19w003-sb721-120.jpg', NULL),
+(NULL, '66', NULL, '/data/images/products/Nam/2ot19w021-sa330-120.jpg', '/data/images/products/Nam/2ot19w021-sb151-120.jpg', NULL),
+(NULL, '67', NULL, '/data/images/products/Nam/2te19w033-sb128-130_1_.jpg', '/data/images/products/Nam/2te19w033-sb128-130_1_.jpg', NULL),
+(NULL, '68', NULL, '/data/images/products/Nam/2tl19w008-sw001-120_1_.jpg', '/data/images/products/Nam/2tl19w008-sw001-120_1_.jpg', NULL),
+(NULL, '69', NULL, '/data/images/products/Nam/2ls19w010-cb184-120-2-5.jpg', '/data/images/products/Nam/2ls19w010-ca047-120-ghep-5.jpg', NULL),
+(NULL, '70', NULL, '/data/images/products/Nam/2bk19w001-sr037-120.jpg', '/data/images/products/Nam/2bk19w001-sr037-120-4.jpg', NULL),
+(NULL, '71', NULL, '/data/images/products/Nam/2bk19w002-sb701-120.jpg', '/data/images/products/Nam/2bk19w002-se049-120.jpg', NULL),
+(NULL, '72', NULL, '/data/images/products/Nam/2is19w002-sk147-120-ghep-4.jpg', '/data/images/products/Nam/2is19w002-sk147-120.jpg', NULL),
+(NULL, '73', NULL, '/data/images/products/Nam/2ot19w025-sr018-120_2_.jpg', '/data/images/products/Nam/2ot19w025-sg243-120.jpg', NULL),
+(NULL, '74', NULL, '/data/images/products/Nam/2tw19w018-sr102-120.jpg', '/data/images/products/Nam/2tw19w018-sk010-120.jpg', NULL),
+(NULL, '75', NULL, '/data/images/products/Nam/2th19w002-co030-120_optimized.jpg', '/data/images/products/Nam/2th19w002-cw018-120_optimized-4.jpg', NULL),
+(NULL, '76', NULL, '/data/images/products/Nam/2bs19w006-sj518-120_-_copy.jpg', '/data/images/products/Nam/2bs19w006-sj518-120_-_copy.jpg', NULL),
+(NULL, '77', NULL, '/data/images/products/Nam/2bs19w005-sj516-120-4.jpg', '/data/images/products/Nam/2bs19w005-sj516-120-4.jpg', NULL),
+(NULL, '78', NULL, '/data/images/products/Nam/2tc19w002-sr151-130-1.jpg', '/data/images/products/Nam/2tc19w002-sa341-130.jpg', NULL),
+(NULL, '79', NULL, '/data/images/products/Nam/2te19w006-sa089_1_.jpg', '/data/images/products/Nam/2te19w006-sa089_2_.jpg', NULL),
+(NULL, '80', NULL, '/data/images/products/Nam/2tc19w002-sa341-130.jpg', '/data/images/products/Nam/2tc19w002-sr151-130-1.jpg', NULL),
+(NULL, '81', NULL, '/data/images/products/Nam/2ot18w015-sa340-120-.jpg', '/data/images/products/Nam/2ot18w015-sa130-120.jpg', NULL),
+(NULL, '82', NULL, '/data/images/products/Nam/2it18w005-pa071-120.jpg', '/data/images/products/Nam/2it18w005-sa004-120.jpg', NULL),
+(NULL, '83', NULL, '/data/images/products/Nam/2is18w005-sa345-120.jpg', '/data/images/products/Nam/2is18w005-sa345-120-1.jpg', NULL),
+(NULL, '84', NULL, '/data/images/products/Nam/2te18w008-sa341-110.jpg', '/data/images/products/Nam/2te18w008-sg242-110.jpg', NULL),
+(NULL, '85', NULL, '/data/images/products/Nam/2it18w004-sr019-120-.jpg', '/data/images/products/Nam/2it18w004-sk010-120.jpg', NULL),
+(NULL, '86', NULL, '/data/images/products/Nam/2tt18w001-so025-35.jpg', '/data/images/products/Nam/2tt18w001-so025-120.jpg', NULL),
+(NULL, '87', NULL, '/data/images/products/Nam/2te18w001-sa2354.jpg', '/data/images/products/Nam/2te18w001-sk0104.jpg', NULL),
+(NULL, '88', NULL, '/data/images/products/Nam/2te18w003-sr143-51_1_.jpg', '/data/images/products/Nam/2te18w003-sr143-51_2_.jpg', NULL),
+(NULL, '89', NULL, '/data/images/products/Nam/2tc18w003-sr088-130.jpg', '/data/images/products/Nam/2tc18w003-sb060-130.jpg', NULL),
+(NULL, '90', NULL, '/data/images/products/Nam/2ot18w019-sg171-110-1.jpg', '/data/images/products/Nam/2ot18w019-sb015-110-1.jpg', NULL),
+(NULL, '91', NULL, '/data/images/products/Nam/2bp20c008-sj603-3.jpg', '/data/images/products/Nam/2bp20c008-sj603-120-2.jpg', NULL),
+(NULL, '92', NULL, '/data/images/products/Nam/2bp20c005-sb141-120.jpg', '/data/images/products/Nam/2bp20c005-sb141-120.jpg', NULL),
+(NULL, '93', NULL, '/data/images/products/Nam/2bs20c001-sj565-3.jpg', '/data/images/products/Nam/2bs20c001-sj565-120.jpg', NULL),
+(NULL, '94', NULL, '/data/images/products/Nam/2bk19a002-sa380-120_2abc.jpg', '/data/images/products/Nam/2bk19a002-sa380-120_2abc.jpg', NULL),
+(NULL, '95', NULL, '/data/images/products/Nam/2tw19c004-sk010-110-1.jpg', '/data/images/products/Nam/2tw19c004-sn173-110.jpg', NULL),
+(NULL, '96', NULL, '/data/images/products/Nam/2tl20c004-sk007-110.jpg', '/data/images/products/Nam/2tl20c004-sk007-110-1.jpg', NULL),
+(NULL, '97', NULL, '/data/images/products/Nam/2bp18c010-sb518-120-1-4.jpg', '/data/images/products/Nam/2bp18c010-sb518-120-1-4.jpg', NULL),
+(NULL, '98', NULL, '/data/images/products/Nam/2bp20c006-sk010-110.jpg', '/data/images/products/Nam/2bp20c006-sa204-110-.jpg', NULL),
+(NULL, '99', NULL, '/data/images/products/Nam/2tc18c003-sa089-_3_--.jpg', '/data/images/products/Nam/2tc18c003-sa089-110-1.jpg', NULL),
+(NULL, '100', NULL, '/data/images/products/Nam/2tw20c001-sw011-130-3.jpg', '/data/images/products/Nam/2tw20c001-sy091-120-1.jpg', NULL),
+
+
+
+(NULL, '1', NULL, '/data/images/products/Nam/2te20w020-sb866-110-1-.jpg', '/data/images/products/Nam/2te20w020-sa539-110-2.jpg', NULL),
+(NULL, '2', NULL, '/data/images/products/Nam/2te20w009-sr133-110-.jpg', '/data/images/products/Nam/2te20w009-sg364-110-2.jpg', NULL),
+(NULL, '3', NULL, '/data/images/products/Nam/2ot20w012-sb150-110-1-.jpg', '/data/images/products/Nam/2ot20w012-sb150-110-2.jpg', NULL),
+(NULL, '4', NULL, '/data/images/products/Nam/2te20w008-sr133-110-.jpg', '/data/images/products/Nam/2te20w008-sa026-110-2.jpg', NULL),
+(NULL, '5', NULL, '/data/images/products/Nam/2bp20w008-sb150-110-.jpg', '/data/images/products/Nam/2bp20w008-sb150-110-.jpg', NULL),
+(NULL, '6', NULL, '/data/images/products/Nam/2ot20w002-sa004-110-1-.jpg', '/data/images/products/Nam/2ot20w002-sa004-110-2.jpg', NULL),
+(NULL, '7', NULL, '/data/images/products/Nam/2te20w009-sr133-110-.jpg', '/data/images/products/Nam/2te20w009-sg364-110-2.jpg', NULL),
+(NULL, '8', NULL, '/data/images/products/Nam/2te20w013-sb691-110-.jpg', '/data/images/products/Nam/2te20w013-sb691-110-2.jpg', NULL),
+(NULL, '9', NULL, '/data/images/products/Nam/2ot20w004-sr002-120-.jpg', '/data/images/products/Nam/2ot20w004-sb060-110-2.jpg', NULL),
+(NULL, '10', NULL, '/data/images/products/Nam/2ls19w010-ca047-120-ghep-5_copy.jpg', '/data/images/products/Nam/2ls19w010-cb184-120-5.jpg', NULL),
+(NULL, '11', NULL, '/data/images/products/Nam/2te20w002-sr072-120-1-.jpg', '/data/images/products/Nam/2te20w002-sb092-2.jpg', NULL),
+(NULL, '12', NULL, '/data/images/products/Nam/2te20c003-sr072-120-1-.jpg', '/data/images/products/Nam/2te20c003-sr072-120-2.jpg', NULL),
+(NULL, '13', NULL, '/data/images/products/Nam/2ot20w007-so016-110-1-.jpg', '/data/images/products/Nam/ 2ot20w007-sb060-120-2.jpg', NULL),
+(NULL, '14', NULL, '/data/images/products/Nam/ 2ot20w007-sb060-120-2.jpg', '/data/images/products/Nam/2ot20w006-sy151-120-1-.jpg', NULL),
+    (NULL, '0', NULL, '/data/images/products/Nam/2bp20w005-sg366-120-.jpg', '/data/images/products/Nam/2bp20w005-sg366-120-2.jpg', NULL),
+(NULL, '16', NULL, '/data/images/products/Nam/2bp20w005-sg366-120-.jpg', '/data/images/products/Nam/2bp20w005-sg366-120-2.jpg', NULL),
+(NULL, '17', NULL, '/data/images/products/Nam/2th20w001-cy038-130-1-.jpg', '/data/images/products/Nam/2th20w001-cb211-120-2.jpg', NULL),
+(NULL, '18', NULL, '/data/images/products/Nam/2te20w005-so171-120-1-.jpg', '/data/images/products/Nam/2te20w005-sb092-120-2.jpg', NULL),
+(NULL, '19', NULL, '/data/images/products/Nam/2te20w003-sb092-120-1-.jpg', '/data/images/products/Nam/2te20w003-sb092-120-2.jpg', NULL),
+(NULL, '20', NULL, '/data/images/products/Nam/2ot20w005-sb055-120-1-.jpg', '/data/images/products/Nam/2ot20w005-sb055-2-thumb.jpg', NULL),
+(NULL, '21', NULL, '/data/images/products/Nam/2bp20w004-sb060-120-.jpg', '/data/images/products/Nam/2bp20w004-sb060-120-.jpg', NULL),
+(NULL, '22', NULL, '/data/images/products/Nam/2bk20w003-sy169-130-.jpg', '/data/images/products/Nam/2bk20w003-sb060-110-2.jpg', NULL),
+(NULL, '23', NULL, '/data/images/products/Nam/2bk20w004-sa222-3-thumb-.jpg', '/data/images/products/Nam/2bk20w004-sa222-2.jpg', NULL),
+(NULL, '24', NULL, '/data/images/products/Nam/2ot20w015-sr072-120-1-.jpg', '/data/images/products/Nam/2ot20w015-sb060-120-2.jpg', NULL),
+(NULL, '25', NULL, '/data/images/products/Nam/2st20w003-sg364-110-1-ghep-.jpg', '/data/images/products/Nam/2st20w003-sb055-110-1.jpg', NULL),
+(NULL, '26', NULL, '/data/images/products/Nam/2st20w002-sr102-110-3-ghep-.jpg', '/data/images/products/Nam/2st20w002-sa004-110-1.jpg', NULL),
+(NULL, '27', NULL, '/data/images/products/Nam/2ot20w006-sy151-120-1-.jpg', '/data/images/products/Nam/2ot20w006-sb055-120-2.jpg', NULL),
+(NULL, '28', NULL, '/data/images/products/Nam/2bk20w002-sb060-1-thumb-.jpg', '/data/images/products/Nam/2bk20w002-sb060-2.jpg', NULL),
+(NULL, '29', NULL, '/data/images/products/Nam/2th20w004-fb266-120-.jpg', '/data/images/products/Nam/2th20w004-fb266-120-2.jpg', NULL),
+(NULL, '30', NULL, '/data/images/products/Nam/3ot20w002-sr191-120-.jpg', '/data/images/products/Nam/3ot20w002-sb060-120-2-n.jpg', NULL),
+(NULL, '31', NULL, '/data/images/products/Nam/2bj20w004-sj601-120-1-.jpg', '/data/images/products/Nam/2bj20w004-sj601-2-thumb.jpg', NULL),
+(NULL, '32', NULL, '/data/images/products/Nam/2bj20w004-sj601-2-thumb.jpg', '/data/images/products/Nam/2bj20w004-sj601-120-1-.jpg', NULL),
+(NULL, '33', NULL, '/data/images/products/Nam/2tl20w009-sr133-120-.jpg', '/data/images/products/Nam/2tl20w009-sr133-120-2.jpg', NULL),
+(NULL, '34', NULL, '/data/images/products/Nam/2ot20w011-sa004-110-.jpg', '/data/images/products/Nam/2ot20w011-sa004-110-1.jpg', NULL),
+(NULL, '35', NULL, '/data/images/products/Nam/2bp20w001-sa424-120-.jpg', '/data/images/products/Nam/2bp20w001-sa014-120-2.jpg', NULL),
+(NULL, '36', NULL, '/data/images/products/Nam/2st20w001-sb060-120-1-ghep-.jpg', '/data/images/products/Nam/2st20w001-sb060-120-1.jpg', NULL),
+(NULL, '37', NULL, '/data/images/products/Nam/2tw20w013-sb592-110-1-.jpg', '/data/images/products/Nam/2tw20w013-sb592-2.jpg', NULL),
+(NULL, '38', NULL, '/data/images/products/Nam/2tw20w010-sb060-110-.jpg', '/data/images/products/Nam/2tw20w010-sa315-110-2.jpg', NULL),
+(NULL, '39', NULL, '/data/images/products/Nam/2tw20w004-sr144-110-1-.jpg', '/data/images/products/Nam/2tw20w004-sr144-110-2.jpg', NULL),
+(NULL, '40', NULL, '/data/images/products/Nam/2ot20w008-sn173-110-.jpg', '/data/images/products/Nam/2ot20w008-sn173-110-.jpg', NULL),
+(NULL, '41', NULL, '/data/images/products/Nam/2bp20w009-sr037-120-.jpg', '/data/images/products/Nam/2bp20w009-sa426-120-2.jpg', NULL),
+(NULL, '42', NULL, '/data/images/products/Nam/2tw20w016-fb264-2-thumb-_1.jpg', '/data/images/products/Nam/2tw20w016-fb264-120-.jpg', NULL),
+(NULL, '43', NULL, '/data/images/products/Nam/2tl20w007-sk010-120-1-.jpg', '/data/images/products/Nam/2tl20w007-sa235-120-2.jpg', NULL),
+(NULL, '44', NULL, '/data/images/products/Nam/2ls20w001-sb047-120-1-ghep-.jpg', '/data/images/products/Nam/2ls20w001-sa235-2.jpg', NULL),
+(NULL, '45', NULL, '/data/images/products/Nam/2tw20w003-pb291-120-1-.jpg', '/data/images/products/Nam/2tw20w003-pb258-120-2.jpg', NULL),
+(NULL, '46', NULL, '/data/images/products/Nam/2th20w005-cr080-120-1-.jpg', '/data/images/products/Nam/2th20w005-cg065-120-2.jpg', NULL),
+(NULL, '47', NULL, '/data/images/products/Nam/2bp20w003-fb264-120-.jpg', '/data/images/products/Nam/2bp20w003-fb264-120-.jpg', NULL),
+(NULL, '48', NULL, '/data/images/products/Nam/2bj20w003-sj580-120-1-.jpg', '/data/images/products/Nam/2bj20w003-sj680-2-thumb.jpg', NULL),
+(NULL, '49', NULL, '/data/images/products/Nam/2ts20w006-py021-120-.jpg', '/data/images/products/Nam/2ts20w006-py021-2-thumb.jpg', NULL),
+(NULL, '50', NULL, '/data/images/products/Nam/2ls20w006-sw001-120-1-ghep-.jpg', '/data/images/products/Nam/2ls20w006-sw001-120-1.jpg', NULL),
+(NULL, '51', NULL, '/data/images/products/Nam/2is20w001-sa503-120-2-ghep-.jpg', '/data/images/products/Nam/2is20w001-sa503-120-2.jpg', NULL),
+(NULL, '52', NULL, '/data/images/products/Nam/2is20w002-sb835-120-ghep-.jpg', '/data/images/products/Nam/2is20w002-sk198-120_-2.jpg', NULL),
+(NULL, '53', NULL, '/data/images/products/Nam/2st20w004-fa064-120-1-ghep-.jpg', '/data/images/products/Nam/2st20w004-fa065-120-1.jpg', NULL),
+(NULL, '54', NULL, '/data/images/products/Nam/2ot20w017-sk004-110-.jpg', '/data/images/products/Nam/2ot20w017-sk004-2.jpg', NULL),
+(NULL, '55', NULL, '/data/images/products/Nam/2ls20w005-sg375-120-0ghep-.jpg', '/data/images/products/Nam/2ls20w005-sk010-120-1.jpg', NULL),
+(NULL, '56', NULL, '/data/images/products/Nam/2lb20w003-sr091-110-1-.jpg', '/data/images/products/Nam/2lb20w003-sb009-110-2.jpg', NULL),
+(NULL, '57', NULL, '/data/images/products/Nam/2tl20w006-sa235-120-1-.jpg', '/data/images/products/Nam/2tl20w006-sa235-120-2.jpg', NULL),
+(NULL, '58', NULL, '/data/images/products/Nam/2ts20w005-sg339-120-1-.jpg', '/data/images/products/Nam/2ts20w005-sr072-120-2.jpg', NULL),
+(NULL, '59', NULL, '/data/images/products/Nam/2it20w001-sa235-120.jpg', '/data/images/products/Nam/2it20w001-sb009-120-.jpg', NULL),
+(NULL, '60', NULL, '/data/images/products/Nam/2te19w025-sr198-130-5_copy.jpg', '/data/images/products/Nam/2te19w025-sa692-130-5.jpg', NULL),
+(NULL, '61', NULL, '/data/images/products/Nam/2te19w025-sr198-130-5_copy.jpg', '/data/images/products/Nam/2te19w025-sa692-130-5.jpg', NULL),
+(NULL, '62', NULL, '/data/images/products/Nam/2tc19w002-sr151-130-1.jpg', '/data/images/products/Nam/2tc19w002-sr151-130.jpg', NULL),
+(NULL, '63', NULL, '/data/images/products/Nam/2te20w021-so178-110-1-.jpg', '/data/images/products/Nam/2te20w021-sb691-110-2.jpg', NULL),
+(NULL, '64', NULL, '/data/images/products/Nam/2te20w017-so079-110-.jpg', '/data/images/products/Nam/2te20w017-sb166-110-2.jpg', NULL),
+(NULL, '65', NULL, '/data/images/products/Nam/2bk20w002-sb060-1-thumb-.jpg', '/data/images/products/Nam/2bk20w002-sb060-2.jpg', NULL),
+(NULL, '66', NULL, '/data/images/products/Nam/2ot19w021-cr079-120.jpg', '/data/images/products/Nam/2ot19w021-cr079_thumb2_.jpeg', NULL),
+(NULL, '67', NULL, '/data/images/products/Nam/2te18w008-sa341-110.jpg', '/data/images/products/Nam/2te18w008-sa341-110.jpg', NULL),
+(NULL, '68', NULL, '/data/images/products/Nam/2tl20w006-sa235-120-1-.jpg', '/data/images/products/Nam/2tl20w006-sa235-120-2.jpg', NULL),
+(NULL, '69', NULL, '/data/images/products/Nam/2ls19w010-ca047-120-ghep-5_copy.jpg', '/data/images/products/Nam/2ls19w010-cb184-120-5.jpg', NULL),
+(NULL, '70', NULL, '/data/images/products/Nam/2bk19w003-sr157-120__1_.jpg', '/data/images/products/Nam/2bk19w003-sr157-120.jpg', NULL),
+(NULL, '71', NULL, '/data/images/products/Nam/2bk20w003-sy169-130-.jpg', '/data/images/products/Nam/2bk20w003-sb060-110-2.jpg', NULL),
+(NULL, '72', NULL, '/data/images/products/Nam/2is19w002-sk147-120-ghep-4.jpg', '/data/images/products/Nam/2is19w002-sk147-120-1.jpg', NULL),
+(NULL, '73', NULL, '/data/images/products/Nam/2ot19w025-sb619-120-4.jpg', '/data/images/products/Nam/2ot19w025-sb090-120.jpg', NULL),
+(NULL, '74', NULL, '/data/images/products/Nam/2tw20w010-sb060-110-.jpg', '/data/images/products/Nam/2tw20w010-sa315-110-2.jpg', NULL),
+(NULL, '75', NULL, '/data/images/products/Nam/2th20w005-cr080-120-1-.jpg', '/data/images/products/Nam/2th20w005-cg065-120-2.jpg', NULL),
+(NULL, '76', NULL, '/data/images/products/Nam/2bs19w005-sj516-120-4.jpg', '/data/images/products/Nam/2bs19w005-sj516-120.jpg', NULL),
+(NULL, '77', NULL, '/data/images/products/Nam/2bs19w005-sj516-120.jpg', '/data/images/products/Nam/2bs19w005-sj516-120-4.jpg', NULL),
+(NULL, '78', NULL, '/data/images/products/Nam/2tc19w002-sr151-130-1.jpg', '/data/images/products/Nam/2tc19w002-sr151-130.jpg', NULL),
+(NULL, '79', NULL, '/data/images/products/Nam/2th20w003-fb266-3-thumb-.jpg', '/data/images/products/Nam/2th20w003-fb266-2.jpg', NULL),
+(NULL, '80', NULL, '/data/images/products/Nam/2ot18w002-fk037-33-.jpg', '/data/images/products/Nam/2ot18w002-fk037-33-.jpg', NULL),
+(NULL, '81', NULL, '/data/images/products/Nam/2ot18w004-fa033-110_2.jpg', '/data/images/products/Nam/2ot18w004-fa033-110_2.jpg', NULL),
+(NULL, '82', NULL, '/data/images/products/Nam/2it18w005-pa071-120-.jpg', '/data/images/products/Nam/2it18w005-pa071-120-.jpg', NULL),
+(NULL, '83', NULL, '/data/images/products/Nam/2is18w005-sa345-120-ghep-.jpg', '/data/images/products/Nam/2is18w005-sa345-120-ghep-.jpg', NULL),
+(NULL, '84', NULL, '/data/images/products/Nam/2te18w008-sa341-110.jpg', '/data/images/products/Nam/2te18w008-sa341-110.jpg', NULL),
+(NULL, '85', NULL, '/data/images/products/Nam/2tl20w009-sr133-120-.jpg', '/data/images/products/Nam/2tl20w009-sr133-120-2.jpg', NULL),
+(NULL, '86', NULL, '/data/images/products/Nam/2it18w001-sa181-110-a_-_copy.jpg', '/data/images/products/Nam/2it18w001-sa181-110-a_-_copy.jpg', NULL),
+(NULL, '87', NULL, '/data/images/products/Nam/2te18w001-sa2354.jpg', '/data/images/products/Nam/2te18w001-sk0104.jpg', NULL),
+(NULL, '88', NULL, '/data/images/products/Nam/2te18w008-sa341-110.jpg', '/data/images/products/Nam/2te19w025-sr198-130-5_copy.jpg', NULL),
+(NULL, '89', NULL, '/data/images/products/Nam/2tc19w002-sr151-130-1.jpg', '/data/images/products/Nam/2tc19w002-sr151-130.jpg', NULL),
+(NULL, '90', NULL, '/data/images/products/Nam/2ot18w002-fk037-33-.jpg', '/data/images/products/Nam/2tc18w003-sa039-130_2.jpg', NULL),
+(NULL, '91', NULL, '/data/images/products/Nam/2bp20w011-sj603-110-.jpg', '/data/images/products/Nam/2bp20w011-sj603-110-2.jpg', NULL),
+(NULL, '92', NULL, '/data/images/products/Nam/2bp20w005-sg366-120-.jpg', '/data/images/products/Nam/2bp20w005-sg366-120-2.jpg', NULL),
+(NULL, '93', NULL, '/data/images/products/Nam/2bs19w005-sj516-120-4.jpg', '/data/images/products/Nam/2bs19w005-sj516-120.jpg', NULL),
+(NULL, '94', NULL, '/data/images/products/Nam/2bk19a002-sa380-120_2abc.jpg', '/data/images/products/Nam/2bk19a002-sa380-120_2abc.jpg', NULL),
+(NULL, '95', NULL, '/data/images/products/Nam/2tw19c004-sk010-110-1.jpg', '/data/images/products/Nam/2tw19c004-sn173-110.jpg', NULL),
+(NULL, '96', NULL, '/data/images/products/Nam/2tl20c004-sk007-110.jpg', '/data/images/products/Nam/2tl20c004-sk007-110-1.jpg', NULL),
+(NULL, '97', NULL, '/data/images/products/Nam/2bp18c010-sb518-120-1-4.jpg', '/data/images/products/Nam/2bp18c010-sb518-120-1-4.jpg', NULL),
+(NULL, '98', NULL, '/data/images/products/Nam/2bp20c006-sk010-110.jpg', '/data/images/products/Nam/2bp20c006-sa204-110-.jpg', NULL),
+(NULL, '99', NULL, '/data/images/products/Nam/2tc18c003-sa089-_3_--.jpg', '/data/images/products/Nam/2tc18c003-sa089-110-1.jpg', NULL),
+(NULL, '100', NULL, '/data/images/products/Nam/2tw20c001-sw011-130-3.jpg', '/data/images/products/Nam/2tw20c001-sy091-120-1.jpg', NULL),
+
+
+
+
+UPDATE `product` SET `score` = '8.3', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 0
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 1
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 2
+UPDATE `product` SET `score` = '8.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 3
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 4
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 5
+UPDATE `product` SET `score` = '7.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 6
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 7
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 8
+UPDATE `product` SET `score` = '9.2', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 9
+UPDATE `product` SET `score` = '9.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 10
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 11
+UPDATE `product` SET `score` = '5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 12
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 13
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 14
+UPDATE `product` SET `score` = '8.8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 15
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 16
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 17
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 18
+UPDATE `product` SET `score` = '7.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 19
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 20
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 21
+UPDATE `product` SET `score` = '8.3', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 22
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 23
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 24
+UPDATE `product` SET `score` = '8.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 25
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 26
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 27
+UPDATE `product` SET `score` = '7.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 28
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 29
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 30
+UPDATE `product` SET `score` = '9.2', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 31
+UPDATE `product` SET `score` = '9.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 32
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 33
+UPDATE `product` SET `score` = '5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 34
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 35
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 36
+UPDATE `product` SET `score` = '8.8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 37
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 38
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 39
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 40
+UPDATE `product` SET `score` = '7.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 41
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 42
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 43
+UPDATE `product` SET `score` = '8.3', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 44
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 45
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 46
+UPDATE `product` SET `score` = '8.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 47
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 48
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 49
+UPDATE `product` SET `score` = '7.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 50
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 51
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 52
+UPDATE `product` SET `score` = '9.2', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 53
+UPDATE `product` SET `score` = '9.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 54
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 55
+UPDATE `product` SET `score` = '5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 56
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 57
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 58
+UPDATE `product` SET `score` = '8.8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 59
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 60
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 61
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 62
+UPDATE `product` SET `score` = '7.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 63
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 64
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 65
+UPDATE `product` SET `score` = '8.3', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 66
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 67
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 68
+UPDATE `product` SET `score` = '8.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 69
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 70
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 71
+UPDATE `product` SET `score` = '7.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 72
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 73
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 74
+UPDATE `product` SET `score` = '9.2', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 75
+UPDATE `product` SET `score` = '9.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 76
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 77
+UPDATE `product` SET `score` = '5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 78
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 79
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 80
+UPDATE `product` SET `score` = '8.8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 81
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 82
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 83
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 84
+UPDATE `product` SET `score` = '7.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 85
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 86
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 87
+UPDATE `product` SET `score` = '8.3', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 88
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 89
+UPDATE `product` SET `score` = '8', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 90
+UPDATE `product` SET `score` = '8.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 91
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 92
+UPDATE `product` SET `score` = '6', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 93
+UPDATE `product` SET `score` = '7.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 94
+UPDATE `product` SET `score` = '8.1', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 95
+UPDATE `product` SET `score` = '9', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 96
+UPDATE `product` SET `score` = '9.2', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 97
+UPDATE `product` SET `score` = '9.5', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 98
+UPDATE `product` SET `score` = '7', `createddate` = NULL, `modifieddate` = NULL WHERE `product`.`id` = 99
