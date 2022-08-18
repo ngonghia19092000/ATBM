@@ -1,0 +1,195 @@
+/**********************************/
+/********* My Account CSS *********/
+/**********************************/
+.my-account {
+    position: relative;
+    padding: 30px 0;
+    min-height: 600px;
+}
+
+.my-account .nav.nav-pills .nav-link {
+    padding: 10px 15px;
+    color: #353535;
+    background: #ffffff;
+    border-radius: 0;
+    border-bottom: 1px solid #dddddd;
+    transition: all .3s;
+}
+
+.my-account .nav.nav-pills .nav-link:last-child {
+    border-bottom: none;
+}
+
+.my-account .nav.nav-pills .nav-link:hover,
+.my-account .nav.nav-pills .nav-link.active {
+    color: #ffffff;
+    background: #FF6347;
+}
+
+.my-account .nav.nav-pills .nav-link i {
+    margin-right: 5px;
+}
+
+.my-account .tab-content {
+    padding: 30px;
+    background: #ffffff;
+}
+
+.my-account .tab-content .table {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.my-account .tab-content .table .thead-dark th {
+    text-align: center;
+    color: #353535;
+    background: #ffffff;
+    border-color: #dddddd;
+    border-bottom: none;
+    vertical-align: middle;
+}
+
+.my-account .tab-content .table td {
+    vertical-align: middle;
+}
+
+
+/**********************************/
+/********* Form Input CSS *********/
+/**********************************/
+.form-control,
+.custom-select {
+    width: 100%;
+    height: 35px;
+    padding: 0 15px;
+    color: #999999;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px
+}
+
+.form-control:focus,
+.custom-select:focus {
+    box-shadow: none;
+    border-color: #ffa07f;
+}
+
+.custom-radio,
+.custom-checkbox {
+    margin-bottom: 15px;
+}
+
+.custom-radio .custom-control-label::before,
+.custom-checkbox .custom-control-label::before {
+    background: #dddddd;
+    border-color: #dddddd;
+}
+
+.custom-radio .custom-control-input:checked~.custom-control-label::before,
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    color: #ffffff;
+    background: #ffa07f;
+    border-color: #ffa07f;
+    box-shadow: none;
+}
+
+.btn {
+    color: #ffa07f;
+    background: #ffffff;
+    border: 1px solid #ffa07f;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+    color: #ffffff;
+    background: #ffa07f;
+    box-shadow: none;
+}
+
+
+.order-detail .order-status{
+    border-bottom: 1px solid #00aec9;
+}
+
+.list-order-item{
+    height: 440px;
+    overflow-y: scroll;
+}
+
+h5{
+    margin: 0px;
+    margin-bottom: 30px;
+}
+.order-detail .order-status span{
+    color: #00AEC9;
+}
+
+.order-detail .order-item{
+    margin-top: 10px;
+}
+
+.order-detail .order-item .order-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+
+
+.order-detail .order-item .order-header .content{
+    text-align: left;
+    padding-right: 20px;
+}
+
+.order-detail .order-item .order-body{
+    margin: 0px 10px;
+}
+
+.order-detail .order-item .order-body span a{
+    text-decoration: none;
+    color: #ff6c00;
+}
+
+.order-detail .order-item .order-footer{
+    text-align: left;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.order-detail .order-item .order-footer p{
+    margin: 0px;
+
+}
+
+.order-detail .order-item .order-footer span{
+    color: #ff6c00;
+}
+
+.order-detail .order-item .order-footer button{
+    margin:0px 10px;
+    border-radius: unset;
+    padding: 0px 40px;
+    border: unset;
+
+}
+.order-detail .order-item .order-header .content p{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.order-detail .order-item .order-header .address h5 span{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #FF6347;
+
+}
+.order-detail .order-item .order-header .content h5 span{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #FF6347;
+    word-break: break-word;
+}
+.order-detail{
+    padding: 15px;
+
+}

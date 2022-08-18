@@ -1,0 +1,29 @@
+input[type="checkbox"] {
+    -ms-transform: scale(2.5); /* IE 9 */
+    -webkit-transform: scale(2.5); /* Chrome, Safari, Opera */
+    transform: scale(2.5);
+}
+
+
+::-webkit-scrollbar-track
+{
+    border: 5px solid white;
+// border color does not support transparent on scrollbar
+// border-color: transparent;
+    background-color: #b2bec3;
+}
+
+::-webkit-scrollbar
+{
+    width: 5px;
+    background-color: #dfe6e9;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background-color: rgb(255, 132, 2);
+    border-radius: 10px;
+}
+.table1{
+    margin-top: 30px;
+}
